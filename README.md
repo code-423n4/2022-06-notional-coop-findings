@@ -2,6 +2,8 @@
 
 Unless otherwise discussed, this repo will be made public after contest completion, sponsor review, judging, and two-week issue mitigation window.
 
+**Contributors to this repo:** prior to report publication, please review the [Agreements & Disclosures](https://github.com/code-423n4/2022-06-notional-coop-findings/issues/1) issue.
+
 ---
 
 ## Contest findings are submitted to this repo
@@ -21,11 +23,13 @@ Let's walk through each of these.
 
 ### Handle duplicates
 
-Because the wardens are submitting issues without seeing each others' submissions, there will always be findings that are clear duplicates. Other findings may use different language that ultimately describes the same issue, but from different angles. Use your best judgment in identifying duplicates, and don't hesitate to reach out (in your private contest channel) to ask C4 for advice.
+Because wardens submit issues without seeing each other's submissions, there will always be findings that are clear duplicates. Other findings may use different language that ultimately describes the same issue, but from different angles. Use your best judgment in identifying duplicates, and don't hesitate to reach out (in your private contest channel) to ask C4 for advice.
 
 1. For all issues labeled `3 (High Risk)` or `2 (Medium Risk)`, determine the best and most thorough description of the finding among the set of duplicates. (At least a portion of the content of the most useful description will be used in the audit report.)
 2. Close the other duplicate issues and label them with `duplicate`
 3. Mention the primary issue # when closing the issue (using the format `Duplicate of #issueNumber`), so that duplicate issues get linked.
+
+**Note: QA and Gas reports do *not* need to be de-duped.** Please see the "QA and Gas reports" section below for more details.
 
 ### Weigh in on severity 
 
@@ -53,7 +57,7 @@ Add any necessary comments explaining your rationale for your evaluation of the 
 
 ## QA and Gas Reports
 
-For contests starting on or after February 3, 2022, C4 introduced a mechanism change for low and non-critical findings, as well as gas optimizations. All warden submissions in these three categories should now be submitted as bulk listings of issues and recommendations: 
+For low and non-critical findings (AKA QA), as well as gas optimizations: all warden submissions in these three categories should now be submitted as bulk listings of issues and recommendations: 
 
 - **[QA reports](https://docs.code4rena.com/roles/wardens/judging-criteria#qa-reports-low-non-critical)** should include *all* low severity and non-critical findings, along with a summary statement.
 - **[Gas reports](https://docs.code4rena.com/roles/wardens/judging-criteria#gas-reports)** should include *all* gas optimization recommendations, along with a summary statement. 
