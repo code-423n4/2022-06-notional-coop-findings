@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "3",
+  "title": "Loss of underlying tokens due to ERC4626 non-compliance in withdraw function in wfCashERC4626.sol",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/42"
+}
