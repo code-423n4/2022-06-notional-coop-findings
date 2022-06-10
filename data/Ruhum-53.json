@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "NotionalTradeModule initiates Notional trades without checking for slippage",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/53"
+}
