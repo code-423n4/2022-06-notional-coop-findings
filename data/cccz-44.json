@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "Must approve 0 first",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/44"
+}
