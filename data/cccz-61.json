@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "maxImpliedRate defaults to 0 or type(uint32).max in some functions, resulting in lack of slippage control",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/61"
+}
