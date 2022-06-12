@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "2",
+  "title": "Deposit of wrappedFCash does not follow EIP 4626",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/76"
+}
