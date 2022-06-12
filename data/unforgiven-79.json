@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "function onERC1155Received() in wfCashLogic won't check that fcash is not matured and if NotionalV2 allow transfers for mature fcash, then it will be possible to mint wfcash after maturity time",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/79"
+}
