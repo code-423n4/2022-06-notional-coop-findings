@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "It's possible to perform DOS and make onERC1155Received() of wfCashLogic to always revert by transferring other fcashs to contract address before its deployment",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/77"
+}
