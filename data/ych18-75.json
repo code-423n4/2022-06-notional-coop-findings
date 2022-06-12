@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "ych18",
+  "address": "0x02435fb305D2BBA609E044279C50498Abe279380",
+  "risk": "3",
+  "title": "Users cannot `initialize()` a proxy with a `currencyId` with a different maturity ",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/75"
+}
