@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "ayeslick",
+  "address": "0x7cCdb6979cB9dFA867b842fAe8243b3B3fda444D",
+  "risk": "3",
+  "title": "INITIALIZER MODIFIER IS SUSCEPTIBLE TO REENTRANCY DURING INITIALIZATION",
+  "issueId": 106,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/106"
+}
