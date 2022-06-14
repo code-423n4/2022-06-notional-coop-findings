@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "Deivitto",
+  "address": "0xA3fF40954b07Bf89225363e8677bf71c8D6CFd73",
+  "risk": "3",
+  "title": "Posible UUPSUpgradeable attack",
+  "issueId": 133,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/133"
+}
