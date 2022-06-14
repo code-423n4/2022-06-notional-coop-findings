@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833D7Dee997d7D347e2634C9CEF",
+  "risk": "2",
+  "title": "Too many setToken modules may cause gas limit error",
+  "issueId": 129,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/129"
+}
