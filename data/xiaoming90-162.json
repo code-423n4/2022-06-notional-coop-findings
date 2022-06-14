@@ -1,0 +1,9 @@
+{
+  "contest": 124,
+  "handle": "xiaoming90",
+  "address": "0x536fbBaE179fd77FAe3E29b510f7B605bf45BC8f",
+  "risk": "2",
+  "title": "Did Not Enforce fCash To Be A Component Of SetToken Before Minting",
+  "issueId": 162,
+  "issueUrl": "https://github.com/code-423n4/2022-06-notional-coop-findings/issues/162"
+}
