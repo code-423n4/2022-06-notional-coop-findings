@@ -1,3 +1,11 @@
+---
+sponsor: "Notional"
+slug: "2022-06-notional-coop"
+date: "2022-07-18" 
+title: "Notional x Index Coop"
+findings: "https://github.com/code-423n4/2022-06-notional-coop-findings/issues"
+contest: 124
+---
 
 # Overview
 
